@@ -4,7 +4,7 @@ title: Your Name
 ---
 
 <p align="center">
-  <img src="IMG-20231111-WA0003.jpg" width="150" style="border-radius: 50%">
+  <img src="IMG-20231111-WA0003.jpg" width="150" style="border-radius: 50%;">
 </p>
 
 Welcome to my personal website! I'm a PhD student at the [Department of Computer Science and Technology, University of Cambridge](https://www.cst.cam.ac.uk/people/irs38).
