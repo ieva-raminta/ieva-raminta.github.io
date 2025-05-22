@@ -17,7 +17,9 @@ Welcome to my personal website! I'm a PhD student at the [Department of Computer
 
 ## About Me
 
-I am a researcher working on Natural Language Processing. My work focuses on fact-checking, ambiguity and uncertainty.
+I am a researcher working on Natural Language Processing (NLP). My work focuses on fact-checking, ambiguity and uncertainty. I have a background in Linguistics, and I try to bring the linguistic perspective into my NLP projects to give them grounding in theory of human language.
+
+I am currently in the third year of my PhD and I am open to opportunities in academia, industry and governmental/NGO sectors. I value interdisciplinary approaches and societal impact of NLP work. 
 
 ---
 
