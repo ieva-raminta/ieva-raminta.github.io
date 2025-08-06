@@ -25,13 +25,13 @@ I am currently in the third year of my PhD and I am open to opportunities in aca
 
 ## News
 
-01/08/2025 I won joint first place in the [VariErrNLI task](https://github.com/mainlp/VariErr-NLI/) at the [LeWiDi 3rd Edition shared task at the NLPerspectives Workshop](https://le-wi-di.github.io/)!
+01/08/2025 📢 I won joint first place in the [VariErrNLI task](https://github.com/mainlp/VariErr-NLI/) at the [LeWiDi 3rd Edition shared task at the NLPerspectives Workshop](https://le-wi-di.github.io/)!
 
-01/07/2025 I have been accepted to the [Alan Turing Enrichment Scheme](https://www.turing.ac.uk/opportunities/doctoral-student-opportunities/phd-enrichment-scheme) for the 2025-2026 academic year! 
+01/07/2025 📢 I have been accepted to the [Alan Turing Enrichment Scheme](https://www.turing.ac.uk/opportunities/doctoral-student-opportunities/phd-enrichment-scheme) for the 2025-2026 academic year! 
 
-30/04/2025 I presented [Dis2Dis: Explaining Ambiguity in Fact-Checking](https://aclanthology.org/2025.findings-naacl.14/) at NAACL 2025 in Albuquerque, New Mexico! 
+30/04/2025 📢 I presented [Dis2Dis: Explaining Ambiguity in Fact-Checking](https://aclanthology.org/2025.findings-naacl.14/) at NAACL 2025 in Albuquerque, New Mexico! 
 
-16/11/2024 I won best presentation award at the [Natural Legal Language Processing Workshop](https://nllpw.org/workshop/) for presenting [Comparative Study of Explainability Methods for Legal Outcome Prediction](https://aclanthology.org/2024.nllp-1.20/)!
+16/11/2024 📢 I won best presentation award at the [Natural Legal Language Processing Workshop](https://nllpw.org/workshop/) for presenting [Comparative Study of Explainability Methods for Legal Outcome Prediction](https://aclanthology.org/2024.nllp-1.20/)!
 
 ---
 
