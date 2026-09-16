@@ -19,11 +19,15 @@ Welcome to my personal website! I'm a PhD student at the [Department of Computer
 
 I am a researcher working on Natural Language Processing (NLP). My work focuses on fact-checking, ambiguity and uncertainty. I have a background in Linguistics, and I try to bring the linguistic perspective into my NLP projects to give them grounding in theory of human language.
 
-I am currently in the third year of my PhD and I am open to opportunities in academia, industry and governmental/NGO sectors. I value interdisciplinary approaches and societal impact of NLP work. 
+I have submitted my PhD and I am open to opportunities in academia, industry and governmental/NGO sectors. I value interdisciplinary approaches and societal impact of NLP work. 
 
 ---
 
 ## News
+
+16/09/2026 📢 My paper [The role of Ambiguity in error prediction via uncertainty quantification](https://arxiv.org/pdf/2606.02093) has been accepted for publication and will be presented at the [Uncertainty-aware NLP workshop](https://uncertainlp.github.io/) at [EMNLP 2026](https://2026.emnlp.org/) in Budapest, Hungary!
+
+16/09/2026 📢 I have been selected for the [Turing Internship](https://www.turing.ac.uk/work-turing/internships/apply-turing-internship-network) at the Ministry of Justice, where I will be working on developing reliable LLM confidence scores!
 
 01/08/2025 📢 I won joint first place in the [VariErrNLI task](https://github.com/mainlp/VariErr-NLI/) at the [LeWiDi 3rd Edition shared task at the NLPerspectives Workshop](https://le-wi-di.github.io/)!
 
